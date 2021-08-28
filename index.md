@@ -3,7 +3,6 @@
 <html>
     <head>
         <title>IL MIO PORTFOLIO</title>
-       <link rel="stylesheet"href="style.css" />
     </head>
     <body>
         <dif class="content">
