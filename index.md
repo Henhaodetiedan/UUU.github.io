@@ -1,4 +1,4 @@
-# welcome to my web page
+# welcome to my website
 
 I use this website to record my life.
 
